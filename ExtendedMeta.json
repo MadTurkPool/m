@@ -1,0 +1,51 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://github.com/MadTurkPool/madj/blob/main/Madt_40x40.png",
+        "url_png_logo": "https://github.com/MadTurkPool/madj/blob/main/Madt_50x50.png",
+        "location": "Turkey, New Zealand",
+        "social": {
+            "instagram_handle": "",
+            "discord_handle": "",
+            "reddit_handle": "https://www.reddit.com/user/MAD_TURK_Pool",
+            "twitter_handle": "MADTURKpool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "telegram_handle": "https://t.me/MADTURK_Pool",
+            "github_handle": "MadTurkPool"
+        },
+        "company": {
+            "name": "MadTurk"
+        },
+        "about": {
+            "me": "Just a Fan",
+            "server": "4x Ubuntu 20.04 LTS servers running in DO,Google,MUVhost",
+            "company": "Earth"
+            },
+    "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "pool167rklq6c7hj8nt3g880x94pn2wc8kgqx5s8ml988y0qcccr6qsl",
+        "1": "d7876f8358f5e479ae2839de62d43353b07b2006a40fbf94e723c18c"
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "relay 1",
+                "type": "relay",
+                "key": "0000000"
+            },
+            "1": {
+                "name": "relay 2",
+                "type": "relay",
+                "key": "0000000"
+            },
+            "2": {
+                "name": "block producer",
+                "type": "bp",
+                "key": "0000000"
+            }
+        }
+    }
+}
+}
