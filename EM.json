@@ -1,26 +1,21 @@
 {
-    "info": {
+        "info": {
         "url_png_icon_64x64": "https://github.com/MadTurkPool/m/blob/main/Madt_40x40.png",
         "url_png_logo": "https://github.com/MadTurkPool/m/blob/main/Madt_50x50.png",
         "location": "Turkey, New Zealand",
         "social": {
-            "discord_handle": "[MADT] MAD TURK SPO",
-            "reddit_handle": "https://www.reddit.com/user/MAD_TURK_Pool",
-            "twitter_handle": "MADTURKpool",
-            "telegram_handle": "https://t.me/MADTURK_Pool",
-            "github_handle": "MadTurkPool"
-        },
-        "company": {
-            "name": "MadTurk"
+        "discord_handle": "[MADT] MAD TURK SPO",
+        "reddit_handle": "https://www.reddit.com/user/MAD_TURK_Pool",
+        "twitter_handle": "MADTURKpool",
+        "telegram_handle": "https://t.me/MADTURK_Pool",
+        "github_handle": "MadTurkPool"
         },
         "about": {
-            "me": "Just a Fan",
-            "server": "3x Ubuntu 20.04 LTS servers running in DO,Google,MUVhost",
-            "company": "Earth"
-            },
-    "rss": ""
-    },
-    "my-pool-ids": {
+        "me": "Just a Fan",
+        "server": "3x Ubuntu 20.04 LTS servers running in DO,Google,MUVhost",
+        "company": "Earth"
+        },
+        "my-pool-ids": {
         "0": "pool167rklq6c7hj8nt3g880x94pn2wc8kgqx5s8ml988y0qcccr6qsl",
         "1": "d7876f8358f5e479ae2839de62d43353b07b2006a40fbf94e723c18c"
     },
