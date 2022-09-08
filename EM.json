@@ -1,23 +1,17 @@
 {
         "info": {
-        "url_png_icon_64x64": "https://img1.wsimg.com/blobby/go/547978c9-b57f-4a31-9d92-63baa82a0e33/downloads/Madt_40x40.png?ver=1638433983333",
-        "url_png_logo": "https://img1.wsimg.com/blobby/go/547978c9-b57f-4a31-9d92-63baa82a0e33/downloads/Madt_50x50.png?ver=1638433983333",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/MadTurkPool/m/206c48a522ef97453c5b648ff00f5da5f10fe870/rumi64by64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/MadTurkPool/m/206c48a522ef97453c5b648ff00f5da5f10fe870/rumi50by50.png",
         "location": "Turkey, New Zealand"
         },
         "social": {
-          "discord_handle": "[MADT] MAD TURK SPO",
-          "reddit_handle": "https://www.reddit.com/user/MAD_TURK_Pool",
-          "twitter_handle": "https://twitter.com/MADTURKpool",
-          "telegram_handle": "https://t.me/madturkpool",
-          "github_handle": "MadTurkPool"
+          "discord_handle": "[RUMI] MAD TURK SPO",
+          "twitter_handle": "https://twitter.com/RUMI_pool",
+          "telegram_handle": "https://t.me/RUMIpool",
         },
         "about": {
         "me": "Just a Fan",
-        "server": "3x Ubuntu 20.04 LTS servers running in DO,Google,MUVhost",
+        "server": "4x Ubuntu 22.04 LTS servers running in the cloud",
         "company": "Earth"
-        },
-        "my-pool-ids": {
-        "0": "pool167rklq6c7hj8nt3g880x94pn2wc8kgqx5s8ml988y0qcccr6qsl",
-        "1": "d7876f8358f5e479ae2839de62d43353b07b2006a40fbf94e723c18c"
-    }
+        }
 }
